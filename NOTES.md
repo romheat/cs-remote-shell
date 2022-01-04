@@ -1,0 +1,6 @@
+Notes 
+
+Install
+- clang
+- valgrind
+
